@@ -1,0 +1,39 @@
+body {
+  background-color: #810b85;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+  color: #05e2e2;
+}
+
+a {
+  color: #ffe600;
+}
+
+form {
+  margin-top: 20px;
+}
+
+button {
+  width: 300px;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 6px;
+  background-color: #2f00ff;
+  font-size: 18px;
+  
+
+}
+
+.botao1 {width: 300px;
+  padding: 15px 20px;
+  border: 1px;
+  border-radius: 6px;
+  font-size: 18px;}
+
+button:hover {
+  background-color: #ff00dd;
+  font-weight: bold;
+}
+
